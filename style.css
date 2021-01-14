@@ -1,0 +1,43 @@
+.header{background-color: #FF7F50; 
+ color: #FFF; 
+ padding-left:30px;
+ font-size: 45px;
+ }
+
+nav a{text-decoration:none; 
+ color:#FFF; 
+ padding-right:30px;}
+
+nav li{display:inline;}
+
+.nav{ background-color:#333; padding:1px;}
+
+.aside{background-color:#333; 
+ color:#FFF; 
+ float:right; 
+ width:20%; 
+ padding:15px;
+ line-height:1.6em;
+ margin-right:100px;}
+
+.footer{background-color:#333; 
+color:#FFF; 
+text-align:center; 
+padding:50px 500px; 
+margin-top:40px;}
+
+.sickoMode{background-image:url("images/Color.jpg"); 
+ background-repeat: no-repeat; 
+ background-size: cover; 
+ text-align:center;  
+ color:#FFF; 
+ font-size:60px;
+ padding:90px 130px;
+ margin-bottom:55px;}
+
+.body{
+ line-height:1.6em;
+ box-sizing:border-box;
+ padding:0px 150px;
+ width:80%;
+ }
